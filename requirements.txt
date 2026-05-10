@@ -1,9 +1,9 @@
-streamlit==1.32.0
-langchain==0.1.13
-langchain-groq==0.1.0
-langchain-community==0.0.29
-langchain-huggingface==0.0.1
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
 faiss-cpu
-pypdf==4.1.0
-python-dotenv==1.0.1
-sentence-transformers==2.6.1
+pypdf
+python-dotenv
+sentence-transformers
